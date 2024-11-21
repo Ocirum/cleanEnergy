@@ -17,6 +17,8 @@ private Usuarios usuario;
 @JoinColumn(name = "tipo_energia")
 private TiposEnergia tipoEnergia;
 
+//hola mundo
+
 private LocalDate fecha;
 
 private double consumo;
